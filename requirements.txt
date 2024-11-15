@@ -1,0 +1,7 @@
+accelerate
+bitsandbytes
+fsspec
+huggingface_hub
+peft
+transformers
+trl
